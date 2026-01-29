@@ -1,1 +1,1 @@
-# fastcal-policy
+# FastCaloAI-policy
